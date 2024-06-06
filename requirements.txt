@@ -1,0 +1,9 @@
+instabot==0.117.0
+requests==2.25.1
+tqdm==4.60.0
+filetype==1.0.7
+pysocks==1.7.1
+future==0.18.2
+schedule==1.0.0
+rsa==4.7.2
+pillow==8.2.0
